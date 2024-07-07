@@ -1,0 +1,7 @@
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\bin\Debug\IsThisNumberEvenTheprogram.exe.config
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\bin\Debug\IsThisNumberEvenTheprogram.exe
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\bin\Debug\IsThisNumberEvenTheprogram.pdb
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\obj\Debug\IsThisNumberEvenTheprogram.csproj.AssemblyReference.cache
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\obj\Debug\IsThisNumberEvenTheprogram.csproj.CoreCompileInputs.cache
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\obj\Debug\IsThisNumberEvenTheprogram.exe
+C:\Users\gerev\source\repos\IsThisNumberEvenTheprogram\IsThisNumberEvenTheprogram\obj\Debug\IsThisNumberEvenTheprogram.pdb
